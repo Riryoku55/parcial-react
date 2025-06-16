@@ -23,11 +23,11 @@ const Layout = ({ children }) => {
         <Container>
           <Row>
             <Col md="8">
-              <p className="text-muted">© 2025 Cinemateca Boliviana - Todos los derechos reservados.</p>
+              <p className="text-muted">© 2025 Alexander Edgar Saire Mendoza.</p>
             </Col>
             <Col md="4">
               <div className="bg-warning text-center p-2">
-                <strong>Publicidad</strong>
+                <strong>INF-122 Progamación web II</strong>
               </div>
             </Col>
           </Row>
